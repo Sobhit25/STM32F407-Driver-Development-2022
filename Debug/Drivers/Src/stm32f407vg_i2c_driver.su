@@ -1,0 +1,12 @@
+stm32f407vg_i2c_driver.c:14:11:Get_RCC_PLL_Clk	16	static
+stm32f407vg_i2c_driver.c:20:10:RCC_GetPClk1Value	24	static
+stm32f407vg_i2c_driver.c:65:6:I2C_PeriClockControl	16	static
+stm32f407vg_i2c_driver.c:87:6:I2C_Init	24	static
+stm32f407vg_i2c_driver.c:153:6:I2C_DeInit	16	static
+stm32f407vg_i2c_driver.c:167:6:I2CMaster_SendData	32	static
+stm32f407vg_i2c_driver.c:199:6:I2CMaster_RecieveData	40	static
+stm32f407vg_i2c_driver.c:297:10:I2C_MasterSendDataIT	32	static
+stm32f407vg_i2c_driver.c:342:9:I2C_MasterReceiveDataIT	32	static
+stm32f407vg_i2c_driver.c:379:6:I2C_IRQConfig	24	static
+stm32f407vg_i2c_driver.c:424:6:I2C_EV_IRQHandling	16	static
+stm32f407vg_i2c_driver.c:467:6:I2C_ER_IRQHandling	16	static
